@@ -1,0 +1,5 @@
+Task 7 — LangGraph Routing Execution Log
+Query 1: "What is the return window for cosmetics?" -> Routed to: RAG Policy Retrieval Node
+Query 2: "Check status for order ORD-1005" -> Routed to: check_order_status Tool Node
+Conditional routing verified successfully across 4 graph nodes.
+Status: Completed under MOCK_LLM mode.
