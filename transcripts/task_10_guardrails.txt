@@ -1,0 +1,5 @@
+Task 10 — Input/Output Guardrails Execution Log
+Input PII Guardrail: Phone number (+91 9876543210) and Card (4111-XXXX-XXXX-1111) masked to [REDACTED_PII].
+Prompt Injection Guardrail: System override attempt detected and blocked.
+Output Groundedness Check: Unsupported query triggered fallback response ("I don't know").
+Status: Completed under MOCK_LLM mode.
