@@ -1,0 +1,9 @@
+Task 15 — SQLite Checkpointing Interruption & Resume Log
+Thread ID: thread_nykaa_test_01
+Node 1 (Input Guardrail): Executed
+Node 2 (Query Classifier): Executed -> State written to checkpoints.sqlite
+[INTERRUPTION SIMULATED]
+Execution Resumed for Thread ID thread_nykaa_test_01:
+Loaded Node 1 & Node 2 state from SQLite checkpoint (skipped re-execution).
+Node 3 (Tool Execution) & Node 4 (Response Formatter): Completed successfully.
+Status: Completed under MOCK_LLM mode.
