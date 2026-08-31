@@ -1,0 +1,7 @@
+Task 8 — Multi-turn Persisted Memory Transcript
+Turn 1 User: "My order ID is ORD-1002."
+Turn 1 Agent: "Found order ORD-1002. Status: Shipped."
+Turn 2 User: "What was my order ID again?"
+Turn 2 Agent: "You previously asked about order ORD-1002."
+Fresh Session Test: Reset state verified; previous order ID not retained across fresh threads.
+Status: Completed under MOCK_LLM mode.
