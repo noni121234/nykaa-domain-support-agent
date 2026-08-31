@@ -1,0 +1,62 @@
+[
+  {
+    "doc_id": "doc_1",
+    "topic": "return window by product category",
+    "content": "Nykaa offers a 15-day return window for Apparel and Footwear products. Beauty products can only be returned within 5 days of delivery if unopened. Home and Electronics items are subject to a 7-day replacement guarantee."
+  },
+  {
+    "doc_id": "doc_2",
+    "topic": "COD refund timelines",
+    "content": "Cash on Delivery (COD) refunds are processed via bank transfer within 5-7 business days after the item passes quality check. Customers must provide verified UPI or bank account details in their profile."
+  },
+  {
+    "doc_id": "doc_3",
+    "topic": "delivery SLAs",
+    "content": "Standard delivery takes 3 to 5 business days for metro cities and 5 to 7 business days for non-metro regions. Express delivery guarantees dispatch within 24 hours for eligible postal codes."
+  },
+  {
+    "doc_id": "doc_4",
+    "topic": "reverse-pickup eligibility",
+    "content": "Reverse pickup is available for standard locations across India free of charge. If reverse pickup service is unavailable at your pin code, self-courier reimbursements up to INR 100 are provided."
+  },
+  {
+    "doc_id": "doc_5",
+    "topic": "warranty terms by category",
+    "content": "Electronics sold on Nykaa come with standard 1-year manufacturer warranty from the date of billing. Apparel and Beauty products do not carry extended warranty terms beyond standard return periods."
+  },
+  {
+    "doc_id": "doc_6",
+    "topic": "order-cancellation policy",
+    "content": "Orders can be canceled anytime before they transition to the Shipped status. Once shipped, cancellations cannot be accepted directly, and items must be rejected upon delivery."
+  },
+  {
+    "doc_id": "doc_7",
+    "topic": "loyalty-points redemption policy",
+    "content": "Nykaa reward points can be redeemed during checkout at a value of 1 point equal to 1 INR. Points expire after 12 months from the date of credit and cannot be combined with selected promo codes."
+  },
+  {
+    "doc_id": "doc_8",
+    "topic": "payment-failure/retry policy",
+    "content": "If a payment fails, debited funds are auto-refunded to the source account within 3 to 5 working days. Customers can retry failed transactions immediately from the order history tab."
+  },
+  {
+    "doc_id": "doc_9",
+    "topic": "size-exchange policy",
+    "content": "Size exchanges for Apparel and Footwear are free of charge subject to stock availability. Request size exchange within 7 days of delivery through the orders section."
+  },
+  {
+    "doc_id": "doc_10",
+    "topic": "damaged-item claim process",
+    "content": "For damaged or defective items, intimate customer care within 48 hours of delivery with unboxing images. Replacements or full refunds will be initiated following verification."
+  },
+  {
+    "doc_id": "doc_11",
+    "topic": "international shipping restrictions",
+    "content": "International shipping is limited to select countries and excludes liquid cosmetics and aerosol products. Import duties and taxes are payable by the customer at the destination."
+  },
+  {
+    "doc_id": "doc_12",
+    "topic": "customer-support escalation matrix",
+    "content": "Standard queries are resolved by Level 1 AI support within minutes. Unresolved issues escalate to human agents at Level 2, while critical disputes reach senior managers within 24 hours."
+  }
+]
