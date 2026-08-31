@@ -1,0 +1,5 @@
+Task 16 — Resilience, Timeouts & Retries Log
+Exponential Backoff Retry: Simulated failure recovered on Attempt 3 (Attempt 1: Fail, Attempt 2: Fail, Attempt 3: Success).
+Per-Node Timeout: Call exceeding 2.0s threshold caught cleanly with TimeoutError fallback.
+Global Graph Timeout: Execution exceeding 5.0s cancelled cleanly without thread hang.
+Status: Completed under MOCK_LLM mode.
