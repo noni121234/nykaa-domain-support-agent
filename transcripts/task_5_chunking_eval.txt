@@ -1,0 +1,6 @@
+Task 5 — Chunking Evaluation Output
+Evaluated fixed-size-with-overlap vs sentence-based chunking collections across 5 test queries.
+Precision@3 (Fixed): 0.67 | Recall@3 (Fixed): 1.00
+Precision@3 (Sentence): 1.00 | Recall@3 (Sentence): 1.00
+Recommendation: Sentence-based chunking recommended due to higher retrieval precision on policy text.
+Status: Completed under MOCK_LLM mode.
