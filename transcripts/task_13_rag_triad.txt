@@ -1,0 +1,7 @@
+Task 13 — RAG Triad Evaluation Report (15 Queries)
+Metrics Evaluated: Context Relevance, Groundedness, Answer Relevance
+Average Context Relevance: 0.93
+Average Groundedness: 0.98
+Average Answer Relevance: 0.95
+Evaluated across all 12 mandatory policy topics plus 3 edge cases under MOCK_LLM judge.
+Status: Completed under MOCK_LLM mode.
