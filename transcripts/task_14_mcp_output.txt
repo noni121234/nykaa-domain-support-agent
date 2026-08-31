@@ -1,0 +1,5 @@
+Task 14 — FastMCP Tool Invocation Log
+Server: Private FastMCP server running at http://127.0.0.1:8000/mcp
+Client Request 1: check_order_status(record_id="ORD-1001") -> Status: Delivered, Escalation Score: 0.12
+Client Request 2: check_order_status(record_id="ORD-1005") -> Status: Shipped, Escalation Score: 0.76 (Escalation Recommended)
+Status: Completed under MOCK_LLM mode.
